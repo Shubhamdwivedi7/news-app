@@ -3,6 +3,9 @@
 # Deployed link for the project :
 https://news-app-green-three-47.vercel.app/
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1f13dc8-9e9d-48db-9dde-36414eb8cd9c" />
+
+
 
 
 Harnessing the power of the GNews public API, our news application delivers the latest headlines and in-depth articles from around the world straight to your device. Experience a sophisticated yet user-friendly interface designed for optimal news consumption.
